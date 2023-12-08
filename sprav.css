@@ -1,0 +1,18 @@
+html{
+background:linear-gradient(45deg,#A9A9A9,#FFDEAD);
+}
+.a{
+	font-size:30px;
+	margin:100px;
+	
+}
+.a > ul > li > a{
+	font-size:25px;
+	color: black;
+	text-decoration:none;
+	text-align:left;
+}
+th{
+	border: 2px solid black;
+	margin:10px;
+}
