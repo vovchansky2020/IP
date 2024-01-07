@@ -1,0 +1,31 @@
+html{
+	background: linear-gradient(45deg,red,orange);
+}
+.vik1{
+	display:inline-block;
+}
+.vik1 > img{
+	width:570px;
+	height:450px;
+	margin-top:5%;
+	margin-left: 20px;
+}
+p{
+	font-size:20px;
+	color: black;
+	width: 50%;
+	text-indent: 25px;
+	border: 15px double green;
+	border-radius: 20px;
+	padding: 5px;
+	float: left;	
+}
+h1 {
+  font-size: 50px;
+  display:inline-block;
+  background: linear-gradient(45deg,orange,red);
+  text-align: center;
+  color: green;
+  padding-left:80%;
+
+}

@@ -1,0 +1,14 @@
+html{
+background:linear-gradient(45deg,#A9A9A9,#FFDEAD);
+}
+.a1{
+	display:flex;
+}
+.a{
+	font-size:20px;
+	margin:30px;
+}
+img{
+	width: 100px;
+	height:100px;
+}

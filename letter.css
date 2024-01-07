@@ -1,0 +1,24 @@
+html{
+	background:linear-gradient(45deg,#A9A9A9,#FFDEAD); 
+	
+}
+
+.letter > h1{
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+}
+.st1{
+	font-size: 25px;
+	
+}
+.st1 > a{
+	text-decoration: none;
+	font-size: 30px;
+	color: green;
+}
+.st1 > a:hover{
+	text-decoration: none;
+	font-size: 30px;
+	color: blue;
+}
