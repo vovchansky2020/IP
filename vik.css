@@ -6,8 +6,8 @@ html{
 }
 .vik1 > img{
 	width:570px;
-	height:450px;
-	margin-top:5%;
+	height:585px;
+	margin-top:2%;
 	margin-left: 20px;
 }
 p{
@@ -21,11 +21,11 @@ p{
 	float: left;	
 }
 h1 {
-  font-size: 50px;
+  font-size: 70px;
   display:inline-block;
   background: linear-gradient(45deg,orange,red);
   text-align: center;
   color: green;
-  padding-left:80%;
+  padding-left:83%;
 
 }
